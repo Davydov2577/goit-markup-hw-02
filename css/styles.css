@@ -1,0 +1,59 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ======================HEADER=============== */
+.header {}
+
+.hesder-nav {
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.header-logo {
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+}
+
+.header-logo-color {
+    color: var(--IRIS, #4D5AE5);
+}
+
+.header-menu-list {}
+
+.header-menu-item {}
+
+.header-menu-link {}
+
+.header-address {}
+
+.header-address-list {}
+
+.header-address-item {}
+
+.header-address-link {
+        color: var(--SLATE, #434455);
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02;
+}
+      
+/* ===================================================        */
