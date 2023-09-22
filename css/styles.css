@@ -48,7 +48,8 @@ a {
   letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover {
+.header-menu-link:hover,
+.header-menu-link:focus {
   color: #404bbf;
 }
 
@@ -109,7 +110,8 @@ a {
   cursor: pointer;
 }
 
-.hero-btn:hover {
+.hero-btn:hover,
+.hero-btn:focus {
   background: #404bbf;
 }
 
