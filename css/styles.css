@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+  background: #fff;
 }
 
 ul {
@@ -122,6 +123,7 @@ a {
 /* ===TEAM=== */
 
 .team {
+  background: #f4f4fd;
 }
 
 .team-title {
