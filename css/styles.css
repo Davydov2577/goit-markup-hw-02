@@ -73,7 +73,9 @@ a {
 }
 
 .header-address-mail:hover,
-.header-address-mail:focus {
+.header-address-mail:focus,
+.header-address-tel:hover,
+.header-address-tel:focus {
   color: #404bbf;
   font-family: inherit;
   font-size: 16px;
